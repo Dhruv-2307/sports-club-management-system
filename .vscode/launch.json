@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Sports Club",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "vmArgs": "--module-path /Users/dhruv/Documents/javafx-sdk-26.0.2/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
